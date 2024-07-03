@@ -1,0 +1,38 @@
+[
+    {
+        "name": "hari",
+        "id": "a",
+        "address": "gdgd",
+        "email": "aa@gmail.com",
+        "phone_number": 8765432176,
+        "marks": [
+            43.0,
+            45.0,
+            56.0
+        ]
+    },
+    {
+        "name": "ram",
+        "id": "b",
+        "address": "erw",
+        "email": "bb@gmail.com",
+        "phone_number": 8765432176,
+        "marks": [
+            34.0,
+            43.0,
+            32.0
+        ]
+    },
+    {
+        "name": "aashish",
+        "id": "c",
+        "address": "fdfdfd",
+        "email": "cc@gmail.com",
+        "phone_number": 8765432176,
+        "marks": [
+            32.0,
+            32.0,
+            53.0
+        ]
+    }
+]

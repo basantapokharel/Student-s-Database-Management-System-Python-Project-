@@ -1,0 +1,18 @@
+[
+    {
+        "name": "hari",
+        "subject": "maths",
+        "id": "a",
+        "address": "surkhet",
+        "email": "hari333@gmail.com",
+        "phone_number": 9867255821
+    },
+    {
+        "name": "sita",
+        "subject": "maths",
+        "id": "b",
+        "address": "fdf",
+        "email": "sita@gmail.com",
+        "phone_number": 9867255823
+    }
+]
